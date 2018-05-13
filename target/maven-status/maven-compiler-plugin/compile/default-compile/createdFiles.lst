@@ -1,0 +1,4 @@
+com\security\controller\UserController.class
+com\security\MyUserDetailService.class
+com\security\Application.class
+com\security\config\SecurityConfig.class
